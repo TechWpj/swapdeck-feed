@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-18T23:09:09.163Z",
+  "generated": "2026-06-18T23:19:07.383Z",
   "stats": {
     "board_adventure": {
       "reddit": "## Board Adventures: most-wanted cards this week 📊\n\nLive from SwapDeck's trade data:\n\n1. **Acai Berry** — 1 traders need it\n2. **Agent M** — 1 traders need it\n3. **Alert Albert** — 1 traders need it\n4. **Amphibious Abe** — 1 traders need it\n5. **Abducted Cow** — 1 traders need it\n\n- Trades completed this week: **0**\n- The SwapDeck Chain is now **0 links** long\n- New traders this week: **3**\n\nHave dupes anyone's hunting? Post your H:/W: below — or scan your album free (no login) at https://swapdeck.meredosiatech.com/scan",
@@ -17,20 +17,6 @@
   "outbox": [],
   "context": {
     "events": [
-      {
-        "game": "monopoly_go",
-        "title": "Sticker Boom",
-        "start": "2026-06-13",
-        "end": "2026-06-14",
-        "blurb": "+50% stickers per pack for a short window — your dupe pile is about to explode. Post your H:/W: now so you're ready to trade the overflow the second it drops."
-      },
-      {
-        "game": "monopoly_go",
-        "title": "Simpsons Partners event",
-        "start": "2026-06-12",
-        "end": "2026-06-17",
-        "blurb": "Partners event is live through the 17th — the best week to lock in a reliable trading partner. Drop your timezone + what you're hunting."
-      },
       {
         "game": "monopoly_go",
         "title": "The Simpsons Album",
@@ -54,6 +40,6 @@
       "Golden cards are the hardest to move solo. The Trade Chain + group league here exist to match you with the right holder faster.",
       "Trading safely matters: confirm trades in-app so they count toward your stats, your Trade Chain link, and your group's league standing."
     ],
-    "updated": "2026-06-13"
+    "updated": "2026-06-18"
   }
 }
