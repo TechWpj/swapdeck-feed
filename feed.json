@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T17:19:07.155Z",
+  "generated": "2026-07-01T17:29:07.147Z",
   "stats": {
     "board_adventure": {
       "reddit": "## Board Adventures: most-wanted cards this week 📊\n\nLive from SwapDeck's trade data:\n\n1. **Acai Berry** — 1 traders need it\n2. **Agent M** — 1 traders need it\n3. **Alert Albert** — 1 traders need it\n4. **Amphibious Abe** — 1 traders need it\n5. **Abducted Cow** — 1 traders need it\n\n- Trades completed this week: **0**\n- The SwapDeck Chain is now **0 links** long\n- New traders this week: **1**\n\nHave dupes anyone's hunting? Post your H:/W: below — or scan your album free (no login) at https://swapdeck.meredosiatech.com/scan",
@@ -22,28 +22,28 @@
         "title": "The Simpsons Album",
         "start": "2026-06-03",
         "end": "2026-07-29",
-        "blurb": "Final stretch of the Springfield sticker hunt — 21 sets, 189 stickers including 29 gold stickers. Completion pressure is at its peak; gold stickers are the real chokepoint and anyone sitting on a spare gold is a hot commodity right now."
+        "blurb": "Springfield sticker hunt is in full crunch — 21 sets, 189 stickers, 29 gold stickers. Album ends July 29 so completion pressure is spiking; anyone sitting on a spare gold is the most popular person in the trade thread right now."
       },
       {
         "game": "monopoly_go",
         "title": "Springfield Partners Event",
         "start": "2026-06-30",
         "end": "2026-07-05",
-        "blurb": "The Simpsons-themed Partner Event is live through July 5 — you need a sticker partner to fill each other's invite bars. Slots fill up in the first few hours; if you don't have one lined up yet, now is the time."
+        "blurb": "The Simpsons-themed Partner Event runs through July 5 — you need a sticker partner to fill each other's invite bars. Slots fill fast; if you don't have one lined up yet, this is your final window before it closes."
       },
       {
         "game": "monopoly_go",
         "title": "Sticker Boom",
         "start": "2026-07-04",
         "end": "2026-07-05",
-        "blurb": "+50% stickers per pack for a limited window July 4–5 — if you have dupes queued up to trade, this is the window to move them and knock out sets while supply spikes."
+        "blurb": "+50% stickers per pack for a 24-hour window July 4 (1 PM ET) through July 5 — the single best moment to move dupes and knock out Simpsons sets. Queue up your trades now so you're ready to fire the second it opens."
       },
       {
         "game": "coin_master",
         "title": "Summer Splash",
         "start": "2026-06-01",
         "end": "2026-07-31",
-        "blurb": "Summer quest chain runs all season — card dupes stack up fast during the grind. Get your H:/W: list posted before the next Cards Boom so you're first in line."
+        "blurb": "Summer quest chain runs all season — card dupes stack up fast during the grind. Get your H:/W: list posted before the next Cards Boom so you're first in line when supply floods the community."
       }
     ],
     "talkingPoints": [
@@ -53,12 +53,13 @@
       "Stuck one card from finishing a set? Post it — someone here almost certainly has it as a dupe collecting dust.",
       "Golden cards are the hardest to move solo. The Trade Chain + group league here exist to match you with the right holder faster.",
       "Trading safely matters: even Monopoly GO's own safe-exchange screen is being gamed (scammers switch stickers at the last second). App-mediated trades with a trade log are the only way to protect yourself.",
-      "Don't sleep on the Simpsons album's final stretch — 29 gold stickers are the real bottleneck and they only move at peak completion pressure. If you have a spare gold, list it now.",
-      "Springfield Partners Event is live through July 5 — you need a sticker partner ready to go or you miss the window. SwapDeck's matching is the fastest way to find one.",
-      "Sticker Boom hits July 4–5 — +50% stickers per pack. Stack dupes before the event and you'll have more to trade right when everyone else is also looking.",
+      "Don't sleep on the Simpsons album's final stretch — 29 gold stickers are the real bottleneck and they only move at peak completion pressure through July 29. If you have a spare gold, list it now.",
+      "Springfield Partners Event is live through July 5 — you need a sticker partner ready to go or you miss the window. SwapDeck's matching is the fastest way to find one in the next 4 days.",
+      "Sticker Boom hits July 4 at 1 PM ET — +50% stickers per pack for 24 hours. Line up your dupes to trade right when everyone else is also hunting to complete Simpsons sets.",
       "Scopely's MONOPOLY GO!Chat app (6.5M groups, 25M messages!) is where sticker trades are being organized. SwapDeck finds your match — the trade itself gets coordinated wherever you chat.",
-      "Scam reports are spiking right now — Facebook has dedicated 'Monopoly GO Scammers List' groups and Reddit threads are full of warnings about last-second sticker switches. If you've been burned before, a trade log is your best protection."
+      "Scam reports are a constant undercurrent in Coin Master Facebook groups — there are literally groups named 'COIN MASTER TRADE - SCAMMERS BANNED'. A trade log is your best protection in any platform trade.",
+      "Board Adventure's card trading flows through the same Coin Master channels — if you're playing both, make sure your H:/W: lists cover both games so you don't miss a cross-game trade partner."
     ],
-    "updated": "2026-06-30"
+    "updated": "2026-07-01"
   }
 }
